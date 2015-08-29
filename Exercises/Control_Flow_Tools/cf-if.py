@@ -1,3 +1,8 @@
+#GateTutorial
+#http://samolds.github.io/gate/guide/python.html#control-flow
+
+#if else and elif
+
 x = 1
 if x < 5:
   print "x is less than 5"

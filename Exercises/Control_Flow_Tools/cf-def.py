@@ -1,3 +1,8 @@
+#GateTutorial
+#http://samolds.github.io/gate/guide/python.html#control-flow
+
+#def functions
+
 import random
 
 def print_random_color():

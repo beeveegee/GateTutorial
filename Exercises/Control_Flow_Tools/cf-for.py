@@ -1,3 +1,8 @@
+#GateTutorial
+#http://samolds.github.io/gate/guide/python.html#control-flow
+
+#for loops
+
 words = ["hello", "my", "name", "is", "tod"]
 string = "hello"
 
