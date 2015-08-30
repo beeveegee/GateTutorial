@@ -16,4 +16,4 @@ class SecondPage(webapp2.RequestHandler):
 app = webapp2.WSGIApplication([
   ('/', MainPage),
   ('/two', SecondPage),
-] debug=True)
+], debug=True)
